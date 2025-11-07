@@ -1,12 +1,15 @@
-## Hi there 👋
+## sStatics
+Welcome to the GitHub Organisation `sStatics`!
 
-<!--
+We develop open-source tools and algorithms for analyzing and visualizing structural systems.  
+Our goal is to support education and research in the field of structural mechanics.
 
-**Here are some ideas to get you started:**
+## Overview of Projects
+Have a look at our ongoing and completed projects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Structural analysis
+| Repository | Description |
+|-------------|-------------|
+| [**sStatics**](https://github.com/sStatics/sstatics-intern) | Python package for analyzing planar truss structures using the displacement method |
+| [**sstatics-frontend**](https://github.com/sStatics/sstatics-frontend) | Frontend for `sStatics` |
+| [**onyx_test_generator**](https://github.com/sStatics/onyx_test_generator) | Tools for creating Onyx exercises with Python; can be combined with `sStatics` |
