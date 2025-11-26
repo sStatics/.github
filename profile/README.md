@@ -1,5 +1,5 @@
-## sStatics
-Welcome to the GitHub Organisation `sStatics`!
+## I4S
+Welcome to the GitHub Organisation `I4S`!
 
 We develop open-source tools and algorithms for analyzing and visualizing structural systems.  
 Our goal is to support education and research in the field of structural mechanics.
